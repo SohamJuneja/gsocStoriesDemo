@@ -1,0 +1,23 @@
+{
+  "title": "Test1",
+  "description": "test description",
+  "stats": [
+    {
+      "label": "stat1",
+      "value": "10%"
+    },
+    {
+      "label": "stat2`",
+      "value": "20%"
+    }
+  ],
+  "challenges": [
+    "challenge 1",
+    "challenge 2"
+  ],
+  "story": "content of the story",
+  "results": [
+    "result1 ",
+    "result2 "
+  ]
+}
